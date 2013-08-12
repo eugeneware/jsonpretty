@@ -1,0 +1,28 @@
+{
+  "name": "jsonpretty",
+  "version": "0.0.1",
+  "description": "Yet another JSON pretty printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/jsonpretty"
+  },
+  "keywords": [
+    "json",
+    "pretty",
+    "pretty-print",
+    "prettyprint",
+    "printer",
+    "format"
+  ],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "json-testdata": "0.1.0",
+    "chai": "~1.7.2",
+    "mocha": "~1.12.0"
+  }
+}
