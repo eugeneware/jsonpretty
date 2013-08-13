@@ -10,7 +10,7 @@ Install via npm:
 $ npm install jsonpretty
 ```
 
-# Usage
+## Usage
 
 Take some JSON object and call like so:
 
